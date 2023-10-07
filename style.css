@@ -1,10 +1,10 @@
 title{
-background-color: #42a0d9;
+background-color: #d9e4ea;
 }
 
 body{
   margin-top: 60px;
-  background-color: rgb(146, 177, 120);
+  background-color: rgb(70, 126, 128);
   text-align:center;
 }
 
@@ -17,22 +17,22 @@ input[type=number] {
 }
 
 #input-celsius{
-  background-color: #ddac52;
+  background-color: #b49db4;
   font-size: 2.5rem;
 }
 
 #input-fahrenheit{
-  background-color: #df5d9c;
+  background-color: #938ea3;
   font-size: 2.5rem;
 }
 
 #input-kelvin{
-  background-color: #b964e7;
+  background-color: #afaaa6;
   font-size: 2.5rem;
 }
 
 .form-padding {
-  padding: 2rem 1rem;
+  padding: 3rem 3rem;
 }
 
 ::-webkit-input-placeholder {
@@ -50,8 +50,7 @@ input[type=number] {
 
 footer{
   padding-top: 1.5rem;
-  font-size: 0.7rem;
-  line-height: 0.2rem;
+  font-size: 1rem;
   text-align:center;
 }
 
